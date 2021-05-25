@@ -4,7 +4,7 @@
     <parent>
         <groupId>ch.sbb.kihub</groupId>
         <artifactId>artifactoryreleasebuildtest</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.2-SNAPSHOT</version>
     </parent>
     <groupId>ch.sbb.kihub.artifactoryreleasebuildtest</groupId>
     <artifactId>moduleC</artifactId>
@@ -14,12 +14,12 @@
         <dependency>
             <groupId>ch.sbb.kihub.artifactoryreleasebuildtest</groupId>
             <artifactId>moduleA</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
+            <version>1.0.2-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>ch.sbb.kihub.artifactoryreleasebuildtest</groupId>
             <artifactId>moduleB</artifactId>
-            <version>1.0.1-SNAPSHOT</version>
+            <version>1.0.2-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
